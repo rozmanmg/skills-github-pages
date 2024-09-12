@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome!
 ---
 
-This is a post
+This is a byline
